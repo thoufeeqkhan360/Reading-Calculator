@@ -17,7 +17,7 @@ Add the dependency to your add module `build.gradle` file:
 
 ```
 dependencies {
-	compile ''
+	compile 'com.github.jitpack:readingcalculator:1.0.0'
 }
 
 ```
